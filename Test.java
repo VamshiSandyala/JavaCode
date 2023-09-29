@@ -10,8 +10,8 @@ public class Test {
         System.out.println("Diff of two: "+diff);
     }
      public static void div(){
-        int a=10,b=20;
-        int div=a/b;
+        float a=10,b=20;
+        float div=a/b;
         System.out.println("div of two: "+div);
     }
     public static void main(String[] args) {
